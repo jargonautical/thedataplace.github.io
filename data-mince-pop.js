@@ -60,7 +60,7 @@ Plotly.d3.csv("https://www.nomisweb.co.uk/api/v01/dataset/NM_2002_1.data.csv?geo
         //console.log(data);
 
         var layout = {
-            title:'Population estimates 2019 (ONS)',
+            title:'Population estimates 2023/24 (ONS)',
             //height: 400,
             //width: 1100,
             hovermode: 'closest',
